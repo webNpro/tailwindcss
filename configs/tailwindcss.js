@@ -2,6 +2,7 @@ module.exports = {
     prefix: 'tw-', 
     darkMode: 'class',
     theme: { 
+        fontFamily: {},
         screens: {
               'sm': '576px',
               'md': '768px',
