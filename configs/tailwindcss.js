@@ -1,5 +1,6 @@
 module.exports = {
     prefix: 'tw-', 
+    darkMode: 'class',
     theme: { 
         screens: {
               'sm': '576px',
