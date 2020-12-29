@@ -1,8 +1,10 @@
 module.exports = {
     prefix: 'tw-', 
     darkMode: 'class',
+    corePlugins: {
+     fontFamily: false,
+    }
     theme: { 
-        fontFamily: {},
         screens: {
               'sm': '576px',
               'md': '768px',
