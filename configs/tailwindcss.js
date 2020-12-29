@@ -3,7 +3,7 @@ module.exports = {
     darkMode: 'class',
     corePlugins: {
      fontFamily: false,
-    }
+    },
     theme: { 
         screens: {
               'sm': '576px',
